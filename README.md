@@ -11,7 +11,7 @@ This project aims to assist visually impaired individuals by providing real-time
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Third_Eye_for_Blind.git
+    git clone https://github.com/Dhahlan3890/Third_Eye_for_Blind.git
     cd Third_Eye_for_Blind
     ```
 
